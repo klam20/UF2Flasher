@@ -8,7 +8,7 @@ A command line script to automate UF2 flashing
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/UF2Flasher.git
+   git clone https://github.com/klam20/UF2Flasher.git
    cd UF2Flasher
 
 ## Usage
